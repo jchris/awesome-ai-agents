@@ -2749,7 +2749,7 @@ Open-source AI app builder
 Build-your-own (agent-builing frameworks and platforms)
 
 ### Description
-- Vibes DIY is an open-source app builder where an AI codegen agent turns a plain-English prompt into a real, live web app — instantly hosted at its own URL, shareable, remixable, with collaborative local-first data
+- Vibes DIY is an [open-source](https://github.com/VibesDIY/vibes.diy) app builder where an AI codegen agent turns a plain-English prompt into a real, live web app — instantly hosted at its own URL, shareable, remixable, with collaborative local-first data
 
 ### Links
 - [Web](https://vibes.diy/)
